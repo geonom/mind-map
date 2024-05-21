@@ -192,7 +192,7 @@ export default {
     title: 'Shortcut key'
   },
   strusture: {
-    title: 'Strusture'
+    title: 'Structure'
   },
   style: {
     title: 'Node style',
